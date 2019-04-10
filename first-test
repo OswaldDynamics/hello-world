@@ -1,3 +1,0 @@
-f_name = input("Please enter your first name./n")
-s_name = input("Please enter your surname./n")
-print("Hello " + f_name + " " + s_name + ", how are you today?")
